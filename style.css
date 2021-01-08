@@ -28,8 +28,11 @@ body {
 .half-width img{
 	width: 100%;
 }
+.top-hello{
+	margin-top: 120px;
+}
 .half-width h1{
-	font-size: 35px;
+	font-size: 45px;
 }
 .half-width p{
     text-align: justify;
@@ -45,6 +48,10 @@ body {
 section{
     height: 600px;
     padding-bottom: 50px;
+}
+.half-width h2{
+	font-size: 30px;
+	margin-top: 120px;
 }
 .bottom-width {
 	width: 25%;
@@ -97,7 +104,7 @@ section{
 footer {
 	text-align: center;
 }
-footer .img{
-	max-width: 100%;
-    height: auto;
+
+.img img {
+	width: 50px;
 }
